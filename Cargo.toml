@@ -1,0 +1,8 @@
+[package]
+name = "serde_to_json"
+version = "0.1.0"
+authors = ["Darayus Nanavati <contact@darayus.com>"]
+
+[dependencies]
+serde = "*"
+serde_json = "*"
